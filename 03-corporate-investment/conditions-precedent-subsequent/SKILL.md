@@ -335,7 +335,7 @@ the Party that did not cause the Condition.
 
 ٧. **`saudi-statutes-research`**: للتَّحقّق من النصّ النظامي للجهة المختصّة بالمُوافقة وسريانه.
 
-٨. **`force-majeure-clause`** (إن وُجد): لتَمييز MAC عن القوّة القاهرة.
+٨. **`force-majeure-clause`** لِتَمييز MAC (Material Adverse Change) عن القُوّة القاهِرَة.
 
 ## تنبيه ختامي
 

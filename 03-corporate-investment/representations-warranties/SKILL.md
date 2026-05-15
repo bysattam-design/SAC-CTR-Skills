@@ -291,7 +291,7 @@ years.
 
 ٧. **`sale-purchase-agreement` و `subscription-agreement`**: للسياق الذي يَدخل فيه البند.
 
-٨. **`disclosure-schedule`** (إن وُجد) لإعداد الجَدول.
+٨. **`disclosure-schedule`** لإعداد الجَدول المُلحَق بِالعَقد.
 
 ٩. **`saudi-statutes-research`**: للتَّحقّق من نصوص نظام المعاملات المدنية ونظام الإثبات وسريانها.
 
